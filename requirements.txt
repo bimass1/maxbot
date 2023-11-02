@@ -1,0 +1,4 @@
+playsound
+json
+gTTS
+SpeechRecognition
